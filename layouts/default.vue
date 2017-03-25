@@ -7,7 +7,7 @@
 
 <script>
 import MyFooter from '~components/Footer.vue'
-import Breadcrumb from 'vue-bulma-breadcrumb'
+import Breadcrumb from 'vue-bulma-breadcrumb/src/Breadcrumb.vue'
 
 export default {
   components: {
